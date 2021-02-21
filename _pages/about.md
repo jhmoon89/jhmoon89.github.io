@@ -8,4 +8,4 @@ layout: single
 
 ## Jihoon Moon
 
-I am a PhD student at Purdue University.
+I am a PhD student at Purdue University, Assitive Robotics Technology Laboratory, advised by C. S. George Lee. 
