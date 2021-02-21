@@ -100,7 +100,7 @@ author:
   name             : "Jihoon Moon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : Pursuing Ph.D at Purdue # "I am an **amazing** person."
-  location         : "West Lafayette, Indiana, USA"
+  location         : # "West Lafayette, Indiana, USA"
   email            :
   links:
     - label: "Email"
