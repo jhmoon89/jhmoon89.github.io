@@ -5,8 +5,9 @@ toc_ads : true
 layout: single
 ---
 
-## Jihoon Moon
+## Info
 Contact: moon92@purdue.edu
 
 [Google scholar](https://scholar.google.com/citations?user=xcjZXmUAAAAJ&hl=ko)
+
 [Github](https://github.com/jhmoon89)
