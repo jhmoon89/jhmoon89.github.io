@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-<!-- Hi! I am a Post-Doc Researcher in Lab of AI and Robotics ([Lair](https://lair.unist.ac.kr/)) at SKKU advised by Prof. [Hyeonwoo yu](https://bogus2000.github.io/). I am a software engineer and AI researcher with a strong background in computer vision and deep learning. During my Ph.D., I focused on developing machine learning systems for visual understanding, publishing in top-tier conferences and journals. My industry experience spans deploying real-time face and pupil tracking models, optimizing deep networks with TensorRT, and building scalable, efficient AI pipelines. I thrive at the intersection of research and engineering, with a passion for turning cutting-edge ideas into practical, high-impact solutions. -->
+<!-- Hi! I am a Post-Doc Researcher in Lab of AI and Robotics ([Lair](https://lair.unist.ac.kr/)) at SKKU advised by Prof. [Hyeonwoo yu](https://bogus2000.github.io/). My current research area is Reinforcement Learning for Robotics. During my Ph.D., I focused on developing machine learning systems for visual understanding. My industry experience spans deploying real-time face and pupil tracking models, optimizing deep networks with TensorRT, and building scalable, efficient AI pipelines. I thrive at the intersection of research and engineering, with a passion for turning cutting-edge ideas into practical, high-impact solutions. -->
 
 
 <br>
@@ -18,107 +18,59 @@ layout: homepage
 <br>
 
 ## Education
-- 2024.03 - Present : M.S. & Ph.D. in School of **Intelligent Robotics** at Sungkyunkwan University (SKKU)
+- 2025.07 - Present : Post-Doc Researcher in School of **Intelligent Robotics** at Sungkyunkwan University (SKKU)
   
-- 2023.03 - 2024.02 : M.S. & Ph.D. in School of **Artificial Intelligence** at Ulsan National Institute of Science and Technology (UNIST)
+- 2016.08 - 2023.12 : Ph.D. in School of **Electrical and Computer Engineering** at Purdue University
 
-- 2016.03 - 2023.02 : B.S. major in School of **Computer Science** and minor in **Mechanical Engineering** at Ulsan National Institute of Science and Technology (UNIST)
+- 2013.09 - 2015.08 : M.S. major in School of **Electrical and Computer Engineering** at Seoul National University (SNU)
+
+- 2007.03 - 2013.08 : B.S. major in School of **Electrical and Computer Engineering** at Seoul National University (SNU)
 
 <br>
 
 
 ## Work Experience
-- 2024.08 - 2025.02 : 3D Vision & Deep Learning Research Intern at [Naver Labs](https://www.naverlabs.com/) (Vision Group) <br/>
-Supervisor : [Giseop Kim](https://giseopkim.notion.site/Giseop-Kim-62c715ad51224751af6de62329925b8f), Sunwook Choi <br/>
+- 2023.11 - 2025.04 : Sr. Software Enginner / AI Researcher at Epitone, Inc. <br/>
 
-- 2024.03 - Present : Research Intern at Artificial Intelligence and Robotics Lab (SKKU) <br/>
-Supervisor : [Hyeonwoo Yu](https://bogus2000.github.io/)<br/>
+- 2010.05 - 2012.07 : Software Engineer at SOLiD, Inc. <br/>
 
-
-- 2022.08 - 2024.02 : Research Intern at Artificial Intelligence and Robotics Lab (UNIST) <br/>
-Supervisor : [Hyeonwoo Yu](https://bogus2000.github.io/)<br/>
-
-
-- 2022.01 - 2022.01 : 
-Global Program Participant in AI & Big Data at University of Illinois Urbana‑Champaign ([UIUC](https://illinois.edu/)) <br/>
-
-
-- 2021.06 - 2022.07 : Research Intern at Applied Cryptography Lab (UNIST) <br/>
-Supervisor: [Miran Kim](https://k-miran.github.io/)<br/>
 
 <br>
 
 ## Publications
-- **Bayesian NeRF: Quantifying Uncertainty with Volume Density in Neural Radiance Fields**
+- **A Multistage Framework With Mean Subspace Computation and Recursive Feedback for Online Unsupervised Domain Adaptation**
   <br>
-  **Sibaek Lee**, Kyeongsu Kang, Hyeonwoo Yu
+  **Jihoon Moon**, Debasmit Das, C.S. George Lee
   <br>
-  IEEE Robotics and Automation Letters (RA-L), 2025
+  IEEE Transactions on Image Processing, 2022
   <br>
-  [[Paper](https://arxiv.org/pdf/2404.06727.pdf)]
-  [[Code](https://github.com/Lab-of-AI-and-Robotics/Bayesian_NeRF)]
-  [[Video](https://www.youtube.com/watch?v=wp5jW4S_jqo)]
+  [[Paper](https://par.nsf.gov/servlets/purl/10352005)]
 
-
-- **Just Flip: Flipped Observation Generation and Optimization for Neural Radiance Fields to Cover Unobserved View**
-  <br>
-  **Sibaek Lee**, Kyeongsu Kang, Hyeonwoo Yu
-  <br>
-  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024
-  <br>
-  [[Paper](https://arxiv.org/pdf/2303.06335.pdf)]
-  [[Code](https://github.com/minjae-lulu/Just-Flip)]
-  [[Video](https://www.youtube.com/watch?v=ClNg3GSr0jw)]
-
-
-- **Necessity Feature Correspondence Estimation for Large-scale Global Place Recognition and Relocalization**
-  <br>
-  Kyeongsu Kang, **Minjae Lee**, Hyeonwoo Yu
-  <br>
-  (arxiv), 2023
-  <br>
-  [[Paper](https://arxiv.org/pdf/2303.06308.pdf)]
-  [[Code](https://github.com/Lab-of-AI-and-Robotics/NFC_relocalization)]
-
-
-- **Literature review on Transformers in object detection**
-  <br>
-  Elkhan Ismayilzada, **Minjae Lee** and Seungryul Baek
-  <br>
-  Korean Artificial Intelligence Association (CKAIA), 2022
-
-
-- **Free-form masked facial image inpainting via exploiting 2D and 3D information**
-  <br>
-  Jihyeon Kim, Junuk Cha, Yeongjun Choo, **Minjae Lee**, Jitae Yoo, Yeonghun Oh, Hoseong Cho, Eunseo Kim, Chungseok Choi, Honggyu Lim, Donguk Min1, Eugene Shin, Seokun Kang and Seungryul Baek
-  <br>
-  Korean Artificial Intelligence Association (CKAIA), 2022
   
+- **Multi-step Online Unsupervised Domain Adaptation**
+  <br>
+  **Jihoon Moon**, Debasmit Das, C.S. George Lee
+  <br>
+  IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2020
+  <br>
+  [[Paper](https://par.nsf.gov/servlets/purl/10169634)]
+
+
+- **Few-shot Image Recognition with Manifolds**
+  <br>
+  Debasmit Das, **Jihoon Moon**, C.S. George Lee
+  <br>
+  International Symposium on Visual Computing, 2020
+  <br>
+  [[Paper](https://par.nsf.gov/servlets/purl/10288174)]
 
 
 <br/>
 
-
-## Conference Review
-- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024
-- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023
-
-<br>
-
-## Presentation
-- Korean Artificial Intelligence Association (CKAIA) Poster Session "Literature review on Transformers in object detection" (2022.11.18) 
-- UNIST Artificial Intelligence Challengers Program (AICP) Poster Session "Just Flip" (2023.11.14)
-- LG DX Intensive Course, "Privacy-Preserving Machine Learning" (2022.08.03)
-- LG DX Intensive Course, "Computer Vision" (2022.07.14)
-- LG DX Intensive Course, "Privacy-Preserving Machine Learning" (2021.10.22)
-
-
 <br>
 
 ## Teaching
-- Kyungnam AI Novatus Academy TA (2023.04 ~ 2023.07)
-- EEE353 Convex Optimization TA (2023.03 ~ 2023.06)
-- AI705 Nonparametric Bayesian TA (2022.09 ~ 2022.12)
+- Electronic Devices and Design Laboratory TA (2017.08 ~ 2020.05)
 
 <br>
 
